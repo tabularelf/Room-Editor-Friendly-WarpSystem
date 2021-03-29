@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_warpzone",
+    "path": "sprites/spr_warpzone/spr_warpzone.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": null,
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_warpzone","path":"objects/obj_warpzone/obj_warpzone.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_warpzone","path":"objects/obj_warpzone/obj_warpzone.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":2,"value":"Default","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"warpName","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":2,"value":"Default","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"warpDestinationName","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":5,"value":"rm_youre_not_meant_to_be_here","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[
+        "GMRoom",
+      ],"resourceVersion":"1.0","name":"warpDestinationRoom","tags":[],"resourceType":"GMObjectProperty",},
+  ],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Tutorial-Room-Editor-Friendly-WarpSystem",
+    "path": "Tutorial-Room-Editor-Friendly-WarpSystem.yyp",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_warpzone",
+  "tags": [],
+  "resourceType": "GMObject",
+}
