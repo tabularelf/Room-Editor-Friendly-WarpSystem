@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Tutorial-Room-Editor-Friendly-WarpSystem",
-    "path": "Tutorial-Room-Editor-Friendly-WarpSystem.yyp",
+    "name": "Room-Editor-Friendly-WarpSystem",
+    "path": "Room-Editor-Friendly-WarpSystem.yyp",
   },
   "resourceVersion": "1.0",
   "name": "obj_player",

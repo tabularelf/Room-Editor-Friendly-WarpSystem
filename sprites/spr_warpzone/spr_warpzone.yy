@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1b2e49be-ed70-47ae-8ed6-619aeff6686f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Tutorial-Room-Editor-Friendly-WarpSystem",
-    "path": "Tutorial-Room-Editor-Friendly-WarpSystem.yyp",
+    "name": "Room-Editor-Friendly-WarpSystem",
+    "path": "Room-Editor-Friendly-WarpSystem.yyp",
   },
   "resourceVersion": "1.0",
   "name": "spr_warpzone",

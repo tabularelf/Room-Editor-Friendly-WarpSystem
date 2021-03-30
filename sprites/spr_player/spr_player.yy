@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4c8de569-dcc8-45e5-9f1a-ff666d06feda","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Tutorial-Room-Editor-Friendly-WarpSystem",
-    "path": "Tutorial-Room-Editor-Friendly-WarpSystem.yyp",
+    "name": "Room-Editor-Friendly-WarpSystem",
+    "path": "Room-Editor-Friendly-WarpSystem.yyp",
   },
   "resourceVersion": "1.0",
   "name": "spr_player",
