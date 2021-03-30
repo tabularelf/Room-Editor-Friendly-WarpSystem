@@ -2,6 +2,9 @@
 global.warpZoneName = "";
 global.isWarping = false;
 
+/// @function room_warp
+/// @param numb
+/// @param string
 function room_warp(_room,_warpZoneName) {
     // This ensures that whatever warp we're going to, it's a string.
     global.warpZoneName = string(_warpZoneName);
@@ -18,6 +21,7 @@ function room_warp(_room,_warpZoneName) {
     }
 }
 
+/// @function room_handle_warp
 function room_handle_warp() {
 	
 	// We will check to see if we have initated a warp.
